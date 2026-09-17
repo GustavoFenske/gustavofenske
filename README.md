@@ -52,7 +52,7 @@ Me chamo Gustavo Fenske, tenho 17 anos e sou natural de Santa Catarina. Estou cu
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=GustavoFenske)](https://github.com/stats-organization/github-stats-extended)" 
+    src="[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=GustavoFenske&show_icons=true&theme=onedark)" 
   />
 
 <img 
