@@ -7,13 +7,15 @@ Me chamo Gustavo Fenske, tenho 17 anos e sou natural de Santa Catarina. Atualmen
 Tenho interesse pela área de tecnologia e desenvolvimento de software, buscando aprender e aprimorar constantemente meus conhecimentos em programação e desenvolvimento web.
 
 ---
+```text
 Gustavo Fenske
 ────────────────────────────────────────────────────────
 Interesses............... Desenvolvimento Web, Programação, Tecnologia
-Contato Acadêmico....... gustavo_estudante.sesisenai.org.br@estudante.sesisenai.org.br    
-Contato Pessoal......... gustavo.fenske2009@email.com
-LinkedIn................ linkedin.com/in/GustavoFenske
+Contato Acadêmico........ gustavo_estudante.sesisenai.org.br@estudante.sesisenai.org.br
+Contato Pessoal.......... gustavo.fenske2009@email.com
+LinkedIn................. linkedin.com/in/GustavoFenske
 ────────────────────────────────────────────────────────
+```
 ---
 
 ### 🤖 Linguagens e Tecnologias
