@@ -10,7 +10,7 @@ Tenho interesse pela área de tecnologia e desenvolvimento de software, buscando
 ```text
 Gustavo Fenske
 ────────────────────────────────────────────────────────
-Interesses............... Desenvolvimento Web, Programação, Tecnologia
+Interesses............... Cibersegurança, Programação, Tecnologia
 Contato Acadêmico........ gustavo_estudante.sesisenai.org.br@estudante.sesisenai.org.br
 Contato Pessoal.......... gustavo.fenske2009@email.com
 LinkedIn................. linkedin.com/in/GustavoFenske
