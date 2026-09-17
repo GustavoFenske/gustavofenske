@@ -1,8 +1,10 @@
 # 👨‍💻 Gustavo Fenske
 
-**`Estudante técnico de desenvolimento de sistemas`**
+**`Estudante Técnico em Desenvolvimento de Sistemas`**
 
-Me chamo Gustavo Fenske, tenho 17 anos e sou natural de Santa Catarina. Estou cursando o ensino médio técnico na Escola de Referência SESI SENAI, com o curso técnico em desenvolvimento de sistemas. Gosto muito da área de tecnologia.
+Me chamo Gustavo Fenske, tenho 17 anos e sou natural de Santa Catarina. Atualmente, estou cursando o Ensino Médio Técnico na Escola de Referência SESI SENAI, com formação técnica em Desenvolvimento de Sistemas.
+
+Tenho interesse pela área de tecnologia e desenvolvimento de software, buscando aprender e aprimorar constantemente meus conhecimentos em programação e desenvolvimento web.
 
 ---
 
@@ -10,20 +12,22 @@ Me chamo Gustavo Fenske, tenho 17 anos e sou natural de Santa Catarina. Estou cu
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="HTML5"
+    title="HTML5" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
+
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="CSS3" 
+    title="CSS3"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
+
 <img 
     align="left" 
     alt="JavaScript" 
@@ -32,6 +36,7 @@ Me chamo Gustavo Fenske, tenho 17 anos e sou natural de Santa Catarina. Estou cu
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+
 <img 
     align="left" 
     alt="PHP"
@@ -44,22 +49,23 @@ Me chamo Gustavo Fenske, tenho 17 anos e sou natural de Santa Catarina. Estou cu
 <br/>
 <br/>
 
+---
+
 ### 📊 Estatísticas
 
 <p>
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="180" 
     style="padding-right: 10px;" 
-    src="[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=GustavoFenske&show_icons=true&theme=onedark)" 
+    src="https://github-stats-extended.vercel.app/api?username=GustavoFenske&show_icons=true&theme=onedark" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    align="left" 
+    alt="Top Languages" 
+    height="180" 
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=GustavoFenske&theme=onedark&layout=compact&custom_title=Tecnologias&langs_count=8" 
   />
-
 </p>
