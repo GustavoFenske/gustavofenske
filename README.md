@@ -59,13 +59,13 @@ Tenho interesse pela área de tecnologia e desenvolvimento de software, buscando
     alt="GitHub Stats" 
     height="180" 
     style="padding-right: 10px;" 
-    src="https://github-stats-extended.vercel.app/api?username=GustavoFenske&show_icons=true&theme=onedark" 
+    src="https://github-stats-extended.vercel.app/api?username=GustavoFenske&show_icons=true&theme=radical" 
   />
 
   <img 
     align="left" 
     alt="Top Languages" 
     height="180" 
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=GustavoFenske&theme=onedark&layout=compact&custom_title=Tecnologias&langs_count=8" 
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=GustavoFenske&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=8" 
   />
 </p>
